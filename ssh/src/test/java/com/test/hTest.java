@@ -25,7 +25,7 @@ public class hTest {
 		
 		for(User user:list)
 		{
-			System.out.println(user.getUsername());
+			System.out.println("username="+user.getUsername());
 		}
 	}
 }
